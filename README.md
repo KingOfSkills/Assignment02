@@ -1,2 +1,2 @@
 # Assignment02
-Assignment two for Game Programming
+Assignment 2 for Game Programming
